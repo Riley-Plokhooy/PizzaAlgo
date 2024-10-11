@@ -3,5 +3,6 @@ Step 2: Go online to their website
 Step 3: Pick the pizza size
 Step 4: Pick your toppings
 Step 5: Pay
+Step 5a: Insert credit/debit card information if you didn't save it or if it's your first time
 Step 6: Wait for pizza
 Step 7: Enjoy when it arrives
