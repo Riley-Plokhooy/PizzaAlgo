@@ -1,0 +1,3 @@
+Resume very rough draft
+I have used c# and have gone to a coding school named TrueCoders. On top of that I have taken 2 years of coding in highschool using java.
+My skills can be showcased on Github where all my repos have been added.
